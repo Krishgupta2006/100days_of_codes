@@ -36,11 +36,11 @@ Hi, I’m **Krish Gupta** 👋
 
 | Day  | Date        | Problem 1 ✅ | Problem 2 ✅ | Hours ⏱️ | Streak 🔥 | Notes |
 |------|-------------|-------------|--------------|----------|-----------|-------|
-| Day 1 | 01-Sep-2025 | ✔️ | ✔️ | 1 hr | 🔥 | Basics: Input/Output |
-| Day 2 | 02-Sep-2025 | ✔️ | ✔️ | 1 hr | 🔥 | Loops & Operators |
-| Day 3 | 03-Sep-2025 | ✔️ | ✔️ | 1 hr | 🔥 | If-Else Practice |
+| Day 1 | 03-Sep-2025 | ✔️ | ✔️ | 1 hr | 🔥 | Basics: Input/Output |
+| Day 2 | 04-Sep-2025 | ✔️ | ✔️ | 1 hr | 🔥 | Loops & Operators |
+| Day 3 | 05-Sep-2025 | ✔️ | ✔️ | 1 hr | 🔥 | If-Else Practice |
 | ...   | ...         | ... | ... | ... | ... | ... |
-| Day 100 | 10-Dec-2025 | ⏳ | ⏳ | ⏳ | ⏳ | Final Day! 🎉 |
+| Day 100 | 12-Dec-2025 | ⏳ | ⏳ | ⏳ | ⏳ | Final Day! 🎉 |
 
 ---
 
