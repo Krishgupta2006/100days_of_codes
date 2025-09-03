@@ -16,8 +16,8 @@ Hi, I’m **Krish Gupta** 👋
 
 ## 📅 Challenge Timeline  
 
-- **Start Date:** `01 September 2025`  
-- **End Date:** `10 December 2025` (100 days later)  
+- **Start Date:** `03 September 2025`  
+- **End Date:** `12 December 2025` (100 days later)  
 
 ---
 
